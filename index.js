@@ -35,4 +35,4 @@ function prependCat(name){
     function  removeFirstCat(){
         const catz = cats.slice(1)
        return catz
-    }
+    } 
